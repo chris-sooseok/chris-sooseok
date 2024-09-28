@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<img height=500 width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris-sooseok&hide_progress=true"/> <img height=550 width=400 src="https://github-readme-stats.vercel.app/api?username=chris-sooseok"/>
+<img height=500 width=400 padding=0 margin=0 src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris-sooseok&hide_progress=true"/> <img height=550 width=400 src="https://github-readme-stats.vercel.app/api?username=chris-sooseok"/>
