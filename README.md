@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chris-sooseok&theme=gruvbox_light&langs_count=10&hide_progress=true) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chris-sooseok&show_icons=true&theme=gruvbox_light)
+
+<a href="https://github.com/chris-sooseok/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris-sooseok&theme=gruvbox_light&langs_count=10&hide_progress=true" />
+</a>
+<a href="https://github.com/chris-sooseok/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chris-sooseok&show_icons=true&theme=gruvbox_light" />
+</a>
