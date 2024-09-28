@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chris-sooseok&hide_progress=true)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chris-sooseok&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
