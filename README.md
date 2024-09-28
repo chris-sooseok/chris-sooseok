@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chris-sooseok&hide_progress=true) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chris-sooseok)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chris-sooseok&hide_progress=true&) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chris-sooseok)
+
+<img height=200 width=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris-sooseok&hide_progress=true"/>
