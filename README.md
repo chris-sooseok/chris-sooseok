@@ -40,6 +40,6 @@
 
 # Other Sites
 - [Digital Garden](https://digital-garden.sooseokk.com/)
-- [LinkedIn](https://www.linkedin.com/in/kim-chris-sooseok//)
+- [LinkedIn](https://www.linkedin.com/in/kim-chris-sooseok/)
 - [GitHub](https://github.com/chris-sooseok)
 - [GitLab](https://gitlab.com/hello.its.sooseok)
