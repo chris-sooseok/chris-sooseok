@@ -1,7 +1,8 @@
 # About me
 
 
-# Resume
+
+## Resume
 
 [Resume](https://digital-garden.sooseokk.com/00-resume)
 
@@ -9,7 +10,7 @@
 
 | Category                   | Technologies                                                                               |
 | -------------------------- | ------------------------------------------------------------------------------------------ |
-| **Programming Languages**  | C, Go, Python, JavaScript, TypeScript, OCaml                                               |
+| **Programming Languages**  | C, Go, Python, JavaScript, TypeScript                                                      |
 | **Databases**              | MongoDB, MySQL, PostgreSQL, SQLite                                                         |
 | **Networking**             | TCP/UDP, HTTP, WebSocket, WebRTC, Model Context Protocol (MCP)                             |
 | **Cloud & Infrastructure** | Ubuntu, Docker, AWS, DigitalOcean, Cloudflare Tunnel, Nginx, Apache, Caddy                 |
@@ -28,9 +29,9 @@
 | **Dormmart**             | Web Development             | A student-to-student campus marketplace: React + Tailwind frontend, PHP + MySQL backend, real-time chat and seller dashboard, deployed at dormmart.me.                                   | [Repo](https://github.com/chris-sooseok/dormmart)                                                                                                                                                                                                                 |
 | **Interpreter**          | Programming Languages       | An OCaml interpreter for a small stack-based language: arithmetic, string/boolean ops, lexical scoping, and first-class closures.                                                        | [Repo](https://github.com/chris-sooseok/cse305)                                                                                                                                                                                                                   |
 | **Easy Markdown**        | Desktop Development         | A cross-platform desktop Markdown notes app: Electron, React + TypeScript, and a Tiptap editor over local SQLite with a UUID-keyed file tree.                                            | [Repo](https://github.com/chris-sooseok/Easy-Markdown)                                                                                                                                                                                                            |
-                                                                                                                                                                                                |
 
 # Additional Studies
+
 | Study                                  | Deliverable                                                                                                                  | Source                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **System Design**                      | [Notes](https://digital-garden.sooseokk.com/05-system-designs/system-design-interview-1/)                                    | [Book Link](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/ref=sr_1_2?channelId=500&clpRedir=Y&dib=eyJ2IjoiMSJ9.vB8dMUpzM0-gK_atwbVVgcqST8Mypewf3STI1EAVSMPLmnmvfv5bAG13tM8PZbpijSFCr6WWId9VP6sFBGPmAG2eJL5x10TmH4dtDkfCj2iJPWTf8p9BEtvY3mbVqYyDu5MLrc_QaPBHT4bhlhP8fkEf1gjtJswMWuyVOXSgjcqzWMSUKHcjhfH5iwiSZT5lxAYzbyxYECAzVU5dXNV5Nui0JYLmI17z30VR-wDFGw4.MFBM2KQP2AtwRtvbbL06KEWAUbxvw6mzTOWG7AnpBlg&dib_tag=se&keywords=byte+byte+go+system+design&plpRedirect=mhFallback&qid=1787890163&sr=8-2) |
