@@ -1,8 +1,4 @@
-# About me
-
-
-
-## Resume
+# Resume
 
 [Resume](https://digital-garden.sooseokk.com/00-resume)
 
